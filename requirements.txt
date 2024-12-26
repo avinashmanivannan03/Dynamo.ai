@@ -1,15 +1,12 @@
-streamlit==1.38.0
-pydantic
-llama-index==0.11.7
-llama_index.llms.together
-langchain==0.0.318
-langchain_community
-streamlit-authenticator==0.3.3
+streamlit
+requests
+llama_index==0.17.1  # Choose a compatible version 
+langchain==0.0.300 
+transformers==4.34.0 
+nltk==3.8.1 
+deep_translator
+gTTS
 PyPDF2
-python-docx==1.1.2
-gtts==2.5.3
-langdetect==1.0.9
-deep-translator==1.11.4
-pillow==10.4.0
-typing-extensions==4.9.0
-nltk
+python-docx
+pydub 
+coloredlogs
