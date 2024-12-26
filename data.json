@@ -1,0 +1,50 @@
+{
+    "login": [
+      {
+        "email": "sricheran320@gmail.com",
+        "password": "password1",
+        "role": "sr_engineer"
+      },
+      {
+        "email": "adityavenkatesh16@gmail.com",
+        "password": "password2",
+        "role": "manager"
+      },
+      {
+        "email": "s.ananth1704@gmail.com",
+        "password": "password4",
+        "role": "sr_engineer"
+      },
+      {
+        "email": "sajan369a@gmail.com",
+        "password": "password5",
+        "role": "jr_engineer"
+      },
+      {
+        "email": "avinashmanivannan03@gmail.com",
+        "password": "password6",
+        "role": "team_lead"
+      }
+    ],
+    "roles": {
+      "intern": ["document1.pdf", "document2.pdf"],
+      "jr_engineer": ["document1.pdf", "document2.pdf", "document3.pdf"],
+      "sr_engineer": ["document1.pdf", "document2.pdf", "document3.pdf", "document4.pdf"],
+      "team_lead": ["document1.pdf", "document2.pdf", "document3.pdf", "document4.pdf", "document5.pdf"],
+      "manager": ["document1.pdf", "document2.pdf", "document3.pdf", "document4.pdf", "document5.pdf", "document6.pdf", "document7.pdf", "document8.pdf"],
+      "hr": ["document1.pdf", "document2.pdf", "document3.pdf", "document4.pdf", "document5.pdf", "document6.pdf", "document7.pdf", "document8.pdf", "document9.pdf", "document10.pdf"]
+    },
+    "documents": {
+      "document1.pdf": "documents/document1.pdf",
+      "document2.pdf": "documents/document2.pdf",
+      "document3.pdf": "documents/document3.pdf",
+      "document4.pdf": "documents/document4.pdf",
+      "document5.pdf": "documents/document5.pdf",
+      "document6.pdf": "documents/document6.pdf",
+      "document7.pdf": "documents/document7.pdf",
+      "document8.pdf": "documents/document8.pdf",
+      "document9.pdf": "documents/document9.pdf",
+      "document10.pdf": "documents/document10.pdf"
+    }
+  }
+  
