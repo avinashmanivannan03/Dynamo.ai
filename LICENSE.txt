@@ -1,12 +1,11 @@
 MIT License
 
-Copyright (c) 2024 Arayacci Team
-- Rohith Jeevanantham
+Copyright (c) 2024 Dynamo AI Team
+- Aditya V
 - Ananth Shyam
-- Samyuktha
-- Arush
-- Adithya Venkatesh
-- Avinash Krishna
+- Avinash M
+- CH Sri Cheran
+- Sajan A
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
