@@ -71,9 +71,9 @@ We welcome contributions to improve the functionality and performance of the app
 ## Team Members
 
 1. **Aditya V**
-2. **Ananth Shyam**
+2. **Ananth Shyam S**
 3. **Avinash M**
-4. **CH Sri Cheran**
+4. **CH SriCheran**
 5. **Sajan A**
 
 ## License
