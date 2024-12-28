@@ -1,4 +1,4 @@
-# Dynamo AI: Inclusive Multi-lingual AI-Based Chatbot for Enterprises
+# Dynamo AI: Inclusive Multi-Lingual AI-Based Chatbot for Enterprises
 
 ## Overview
 
