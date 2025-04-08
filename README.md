@@ -24,7 +24,7 @@ This solution is designed to boost productivity, improve decision-making, and en
 - **TensorFlow** (for machine learning models)
 - **Google Text-to-Speech (gTTS)** (for audio responses)
 - **Deep Translator** (for multi-lingual support)
-- **Langchain** (for language model integrations)
+- **LlamaIndex** (for language model integrations)
 
 ## Installation
 
