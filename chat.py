@@ -221,7 +221,7 @@ def chatbot_interface():
     # Set up Together LLM API and embeddings
     api_key = 'dd0fd0c2e4d007fb0deb98a42b41824008a87eb02b716e1eee6a32551253ba9d'
     llm = TogetherLLM(model="meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo", api_key=api_key)
-    embeddings = HuggingFaceEmbeddings(api_key='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', model_name="sentence-transformers/all-mpnet-base-v2")
+    embeddings = HuggingFaceHubEmbeddings(api_key='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', model_name="sentence-transformers/all-mpnet-base-v2")
 
     if st.button("🔄 Process Documents") and documents:
         with st.spinner('Processing...'):
